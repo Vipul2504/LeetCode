@@ -1,6 +1,6 @@
 public class HieghtChecker1051 {
     public static void main(String[] args) {
-        int[] nums = {1,1,1,3,5,7,2,4,8,9};
+        int[] nums = {1,1,1,3,5,7,2,4,8,9,6};
         int ans = HieghtChecker(nums);
         System.out.println(ans);
     }
