@@ -7,6 +7,7 @@ public class WordPattern290 {
         String s = "dog cat cat dog";
         Boolean ans = wordpattern(pattern, s);
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 
