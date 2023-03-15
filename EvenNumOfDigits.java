@@ -3,6 +3,7 @@ public class EvenNumOfDigits {
         int[] nums = { 11, 223, 24323, 2332, 45, 323, 42, 434, 545, 6243, 2234, 2342, 342445, 6756867, 967895687, 59 };
         int ans = FindNumber(nums);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int FindNumber(int[] nums) {
