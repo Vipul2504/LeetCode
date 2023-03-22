@@ -4,6 +4,7 @@ public class CheckIfTwoStringArraysareEquivalent1662 {
         String[] word2 = {"a","bc"};
         boolean ans = IsEqual(word1,word2);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static boolean IsEqual(String[] word1, String[] word2) {
