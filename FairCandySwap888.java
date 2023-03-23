@@ -8,6 +8,7 @@ public class FairCandySwap888 {
         int[] bobSizes = { 2, 2 };
         int[] ans = FairCandySwap(aliceSizes, bobSizes);
         System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));
     }
 
     private static int[] FairCandySwap(int[] A, int[] B) {
