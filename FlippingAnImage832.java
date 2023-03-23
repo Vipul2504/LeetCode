@@ -5,6 +5,7 @@ public class FlippingAnImage832 {
         int[][] image = { { 1, 1, 0 }, { 1, 0, 1 }, { 0, 0, 0 } };
         int[][] ans = FlipImage(image);
         System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));
     }
 
     private static int[][] FlipImage(int[][] image) {
