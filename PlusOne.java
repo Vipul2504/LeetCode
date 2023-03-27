@@ -9,6 +9,7 @@ public class PlusOne {
         int[] digits = { 1, 2, 3 };
         int[] ans = CreatePlusOne(digits);
         System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));
     }
 
     private static int[] CreatePlusOne(int[] digits) {
