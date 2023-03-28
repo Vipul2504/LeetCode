@@ -3,6 +3,7 @@ public class MajorityElement169 {
         int[] nums = {2,2,1,1,1,2,2};
         int ans = MajorityElement(nums);
         System.out.println(ans);
+        System.out.println(ans);
         
     }
 
