@@ -7,6 +7,7 @@ public class MinimumCommonValue6300 {
         int[] nums2 = { 2, 3, 4, 6 };
         int result = GetCommon(nums1, nums2);
         System.out.println(result);
+        System.out.println(result);
     }
 
     private static int GetCommon(int[] nums1, int[] nums2) {
