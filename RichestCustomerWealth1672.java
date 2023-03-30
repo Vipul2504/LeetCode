@@ -3,6 +3,7 @@ public class RichestCustomerWealth1672 {
         int[][] accounts = { { 1, 2, 3 }, { 3, 4, 6 } };
         int ans = RichestCustomerWealth(accounts);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int RichestCustomerWealth(int[][] accounts) {
