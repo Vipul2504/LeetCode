@@ -3,6 +3,7 @@ public class LargestElementInArr {
         int[] nums = { 2, 25, 44, 27, 65, 93, 87, 59, 34, 15 };
         int ans = LargestElement(nums);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int LargestElement(int[] nums) {
