@@ -3,6 +3,7 @@ public class DifferenceBetweenElementSumandDigitSum2535 {
         int[] nums = { 4, 23, 21, 5, 4, 23, 5, 6, 32 };
         int ans = DifferenceBetElemAndDigit(nums);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int DifferenceBetElemAndDigit(int[] nums) {
