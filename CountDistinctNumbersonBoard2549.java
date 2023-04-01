@@ -4,6 +4,7 @@ public class CountDistinctNumbersonBoard2549 {
         int n = 5;
         int ans = distinctIntegers(n);
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 
