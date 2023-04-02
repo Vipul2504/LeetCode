@@ -3,6 +3,7 @@ public class DetectCapital520 {
         String word = "USA";
         Boolean Ans = DetectCapital(word);
         System.out.println(Ans);
+        System.out.println(Ans);
     }
 
     private static Boolean DetectCapital(String word) {
