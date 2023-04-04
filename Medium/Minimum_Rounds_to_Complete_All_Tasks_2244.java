@@ -10,6 +10,7 @@ public class Minimum_Rounds_to_Complete_All_Tasks_2244 {
         int answer = minRounds(tasks);
 
         System.out.println(answer);
+        System.out.println(answer);
     }
 
     private static int minRounds(int[] tasks) {
