@@ -6,6 +6,7 @@ public class FindFirstandLastPosofElemSortArray34 {
     public static void main(String[] args) {
         int nums[] = { 5, 6, 7, 7, 8, 8, 10 }, target = 8;
         System.out.println(Arrays.toString(SearchRange(nums, target)));
+        System.out.println(Arrays.toString(SearchRange(nums, target)));
 
     }
 
