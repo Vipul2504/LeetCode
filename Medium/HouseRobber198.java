@@ -8,6 +8,7 @@ public class HouseRobber198 {
         int[] nums = { 2, 7, 9, 3, 1 };
         int ans = houseRob(nums);
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 
