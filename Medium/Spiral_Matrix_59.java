@@ -10,6 +10,7 @@ public class Spiral_Matrix_59 {
             int num = sc.nextInt();
             int[][] ans = SpiralMatrixII(num);
             System.out.println(Arrays.deepToString(ans));
+            System.out.println(Arrays.deepToString(ans));
         }
 
     }
