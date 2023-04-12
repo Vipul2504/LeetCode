@@ -5,7 +5,7 @@ public class First_Missing_Positive41 {
         int[] nums = { 0, 1, 3 };
         int ans = FirstMissingPositive(nums);
         System.out.println(ans);
-        System.out.println(ans);
+        System.out.println("Done");
     }
 
     private static int FirstMissingPositive(int[] nums) {
