@@ -10,6 +10,7 @@ public class TwoSumII-InputArrayIsSorted167
         int[] nums = { 2, 7, 11, 15 };
         int target = 9;
         int ans[] = TwoSumII(nums, target);
+        int ans[] = TwoSumII(nums, target);
     }
 
     private static int[] TwoSumII(int[] nums, int target) {
