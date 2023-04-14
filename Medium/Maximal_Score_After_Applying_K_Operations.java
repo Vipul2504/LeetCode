@@ -14,6 +14,7 @@ public class Maximal_Score_After_Applying_K_Operations {
         int k = 3;
         long ans = maximalScore(nums, k);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static long maximalScore(int[] nums, int k) {
