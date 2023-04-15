@@ -12,6 +12,7 @@ public class MaximumIceCreamBars1833 {
         int coins = 7;
         int ans = MaxIceCream(costs, coins);
         System.out.println(ans);
+        System.out.println(ans);
 
     }
 
