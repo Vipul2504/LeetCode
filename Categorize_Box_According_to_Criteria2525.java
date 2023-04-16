@@ -5,6 +5,7 @@ public class Categorize_Box_According_to_Criteria2525 {
         String Ans2 = categorizeBox2(length, width, height, mass);
         System.out.println(Ans);
         System.out.println(Ans2);
+        System.out.println(Ans2);
     }
 
     private static String categorizeBox2(int length, int width, int height, int mass) {
