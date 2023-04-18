@@ -8,7 +8,6 @@ public class RotateArray189 {
         int k = 3;
         rotate(arr, k);
         System.out.println(Arrays.toString(arr));
-        System.out.println(Arrays.toString(arr));
 
     }
 
