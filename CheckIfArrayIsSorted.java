@@ -4,7 +4,7 @@ public class CheckIfArrayIsSorted {
         Boolean GFGans = arraySortedOrNot(nums); // for gfg
         Boolean LEETans = checkSortandRotate(nums); // for LeetCode
         System.out.println(GFGans);
-        System.out.println(LEETans);
+
     }
 
     private static Boolean checkSortandRotate(int[] nums) {
