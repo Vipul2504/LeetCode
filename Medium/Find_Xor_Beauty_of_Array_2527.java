@@ -5,7 +5,6 @@ public class Find_Xor_Beauty_of_Array_2527 {
         int[] nums = { 1, 4 };
         int ans = xorBeauty(nums);
         System.out.println(ans);
-        System.out.println(ans);
     }
 
     private static int xorBeauty(int[] nums) {
