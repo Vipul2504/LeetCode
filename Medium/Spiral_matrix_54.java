@@ -8,7 +8,6 @@ public class Spiral_matrix_54 {
         int[][] matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
         List<Integer> ans = SpiralMatrix(matrix);
         System.out.println(ans);
-        System.out.println(ans);
 
     }
 
