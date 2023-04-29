@@ -3,6 +3,7 @@ public class AlternativeDigitSum2544 {
         int n = 72347352;
         int ans = AlternativeDigitSum(n);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int AlternativeDigitSum(int n) {
