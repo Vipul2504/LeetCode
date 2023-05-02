@@ -6,7 +6,7 @@ public class QuickLeftRotation {
         int N = 6, K = 2;
         long[] ans = LeftRotate(arr, N, K);
         System.out.println(Arrays.toString(ans));
-        System.out.println(Arrays.toString(ans));
+        
     }
 
     private static long[] LeftRotate(long[] arr, int n, int k) {
