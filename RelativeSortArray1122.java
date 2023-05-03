@@ -6,6 +6,7 @@ public class RelativeSortArray1122 {
         int[] arr2 = {2,1,4,3,9,6};
         int[] ans = RelativeSortArray(arr1, arr2);
         System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));
         
 
    }
