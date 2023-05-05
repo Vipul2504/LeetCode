@@ -9,7 +9,6 @@ public class SentenceIsPanagram {
         String sentence = "abcdefghijklmnopqrstuvwxyz";
         boolean res = CheckIssentenceIspanagram(sentence);
         System.out.println(res);
-        System.out.println(res);
     }
 
     private static boolean CheckIssentenceIspanagram(String sentence) {
