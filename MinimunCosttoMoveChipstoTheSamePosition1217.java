@@ -3,6 +3,7 @@ public class MinimunCosttoMoveChipstoTheSamePosition1217 {
         int[] position = { 2, 2, 2, 3, 3 };
         int ans = minCostToMoveChips(position);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int minCostToMoveChips(int[] position) {
