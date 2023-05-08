@@ -5,6 +5,7 @@ public class MaximumProductofThreeNumbers628 {
         int[] nums = {1,3,5,7,9};
         int ans = MaximumProductofThreeNumbers(nums);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int MaximumProductofThreeNumbers(int[] nums) {
