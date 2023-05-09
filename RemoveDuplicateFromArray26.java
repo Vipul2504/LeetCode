@@ -6,7 +6,6 @@ public class RemoveDuplicateFromArray26 {
         int ans = RemoveDuplicate(nums);
         int ans1 = RemoveDuplicateHashSet(nums);
         System.out.println(ans1);
-        System.out.println(ans);
     }
 
     private static int RemoveDuplicateHashSet(int[] nums) {
