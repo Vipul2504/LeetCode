@@ -4,6 +4,7 @@ public class KthMissingPositiveNumber1539 {
         int k = 5;
         int ans = KthMissingNumber(arr, k);
         System.out.println(ans);
+        System.out.println(ans);
     }
 
     private static int KthMissingNumber(int[] arr, int k) {
