@@ -5,7 +5,7 @@ public class JumpGame55 {
         int[] nums = { 2, 3, 1, 1, 4 };
         Boolean ans = JumpGame(nums);
         System.out.println(ans);
-        System.out.println(ans);
+
     }
 
     private static Boolean JumpGame(int[] nums) {
